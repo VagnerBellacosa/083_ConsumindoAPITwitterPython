@@ -51,5 +51,23 @@ Expanda seus conhecimentos sobre Python, Banco de Dados e APIs. Para isso, vamos
 
 ###### Guilherme Carvalho
 
-Python Consultant, Oak Solutions[**](https://www.linkedin.com/in/guilherme-arthur-de-carvalho/)      <br>           [**](https://github.com/guicarvalho)      <br>          
+Python Consultant, Oak Solutions[**](https://www.linkedin.com/in/guilherme-arthur-de-carvalho/)      <br>           [**](https://github.com/guicarvalho)      <br>
+
+## Descrição do Desafio
+
+Expanda seus conhecimentos sobre Python, Banco de Dados e APIs. Para isso, vamos criar um projeto prático com o objetivo de consumir a API REST do Twitter. Nesse sentido, uma série de boas práticas e dicas foram apresentadas pelo nosso expert. Entre elas o Tweepy, que reduziu a complexidade no consumo da API do Twitter. **Agora é a sua hora de brilhar! Reproduza o projeto que criamos, dando a sua cara a ele. Para isso, pense em novas funcionalidades e formas de evoluir a solução:**
+
+- **Criar relatórios/dashboards para exibir de forma mais amigável os dados coletados via Twitter API.**
+- **Containerizar a aplicação com Docker e modularizar a aplicação.**
+
+***Dica: você pode dar um "fork" no repositório para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.\***
+
+## Links Úteis
+
+- [Slides](https://docs.google.com/presentation/d/1ayigd4Xm9Hue05zy2CyW-_dOuxb4G5VZ/edit?usp=sharing&ouid=116800384344091292704&rtpof=true&sd=true)
+- [Repositório no GitHub](https://github.com/guicarvalho/dio-twitter-py) (implementação de referência)
+- [Documentação Twitter API](https://developer.twitter.com/en/docs)
+- [Documentação Tweepy](https://docs.tweepy.org/en/stable/)
+
+​          
 
